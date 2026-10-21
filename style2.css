@@ -1,0 +1,18 @@
+h1 {
+  color: rgb(80, 50, 30);
+}
+
+body {
+  background-color: white;
+  color: #222;
+}
+
+
+p {
+  color: rgba(80, 50, 30, 0.1);
+}
+
+
+span.action {
+    
+}  
